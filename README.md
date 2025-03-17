@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # TinyPathFrontend
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.3.
@@ -57,3 +58,7 @@ Angular CLI does not come with an end-to-end testing framework by default. You c
 ## Additional Resources
 
 For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+=======
+# tinyPath_frontend
+Aplicación frontend desarrollada con Angular y Tailwind CSS que forma parte del proyecto de creación de atajos de enlaces (shortlinks).
+>>>>>>> 200b1a0e4521625ae016182cbbae382b11b92d28
