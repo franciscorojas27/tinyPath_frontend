@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # TinyPathFrontend
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.3.
@@ -61,4 +60,3 @@ For more information on using the Angular CLI, including detailed command refere
 =======
 # tinyPath_frontend
 Aplicación frontend desarrollada con Angular y Tailwind CSS que forma parte del proyecto de creación de atajos de enlaces (shortlinks).
->>>>>>> 200b1a0e4521625ae016182cbbae382b11b92d28
